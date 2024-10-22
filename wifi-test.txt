@@ -1,2 +1,4 @@
-data=thisIStestingDATA1234
-moredata=THISisMOREtestingdata4321
+LED_ON
+DELAY 2000
+LED_OFF
+DELAY 1000
