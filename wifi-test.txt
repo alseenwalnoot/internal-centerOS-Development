@@ -1,3 +1,4 @@
+CLEARFILE openApp
 VAR X = 9
 IF X == 10
 LED_ON
