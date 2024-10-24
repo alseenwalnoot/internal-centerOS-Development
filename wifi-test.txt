@@ -1,4 +1,4 @@
-VAR X = 10
+VAR X = 9
 IF X == 10
 LED_ON
 DELAY 1000
