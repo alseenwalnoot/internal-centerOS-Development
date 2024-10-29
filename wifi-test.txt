@@ -1,3 +1,5 @@
-PRINTLN tester
-DELAY 100
-CLEARFILE /HyScriptTEST.txt
+SET x 10
+IF x 10
+PRINTLN Condition met!
+ENDIF
+CLEARFILE HyScriptTEST.txt
