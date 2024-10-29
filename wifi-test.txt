@@ -2,4 +2,4 @@ SET x 10
 IF x 10
 PRINTLN Condition met!
 ENDIF
-CLEARFILE HyScriptTEST.txt
+CLEARFILE /HyScriptTEST.txt
