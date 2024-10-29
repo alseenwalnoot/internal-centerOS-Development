@@ -1,5 +1,4 @@
-SET x 10
+SET x 1
 IF x 10
 PRINTLN Condition met!
 ENDIF
-CLEARFILE /HyScriptTEST.txt
