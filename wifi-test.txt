@@ -1,4 +1,4 @@
-SET x 1
+SET x 10
 IF x 10
 PRINTLN Condition met!
 ENDIF
