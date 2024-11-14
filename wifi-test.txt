@@ -1,4 +1,7 @@
-SET x 10
-IF x 10
-PRINTLN Condition met!
-ENDIF
+SET X 9
+DEFINE myCoolFunction
+    IF X == 9
+        TFTPRINT The argument is 9
+    ENDIF
+ENDDEFINE
+CALL myCoolFunction
